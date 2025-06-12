@@ -1,95 +1,84 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import {
+    Accordion,
+    AccordionDetails,
+    AccordionSummary, Box, Card, CardContent, Stack,
+    Table, TableBody, TableCell,
+    TableContainer,
+    TableHead, TableRow,
+    Typography
+} from "@mui/material";
+import {loadMapData} from "@/lib/loadMapData";
+import { ExpandMore } from "@mui/icons-material";
+import RvmSearchForm from "@/components/Search/RvmSearchForm";
 
-export default function Home() {
+export default async function Home({ searchParams }: { searchParams: Promise<{ q?: string, in?: string }> }) {
+
+  const mapData = await loadMapData();
+
+  const { q, in: inFacility } = await searchParams;
+
+  const filteredMapData = mapData.filter((f) => {
+      if (inFacility) {
+          return f.name.toLowerCase() === inFacility.toLowerCase();
+      }
+      return f.maps.some((m) =>
+          !q
+          || m.shortName.toLowerCase().includes(q.toLowerCase())
+          || m.longName.toLowerCase().includes(q.toLowerCase())
+      );
+  });
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing <code>app/page.tsx</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
-
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      <Stack direction="column" spacing={2}>
+          <RvmSearchForm facilities={mapData.map((f) => f.name)} />
+          { filteredMapData.length === 0 && (
+              <Card>
+                  <CardContent>
+                      <Typography variant="subtitle2">No results found.</Typography>
+                  </CardContent>
+              </Card>
+          )}
+          <Box>
+              { filteredMapData.length > 0 &&
+                  filteredMapData
+                      .map((facility, idx) => (
+                          <Accordion key={idx}>
+                              <AccordionSummary expandIcon={<ExpandMore />}>
+                                  <Typography variant="h6">{facility.name}</Typography>
+                              </AccordionSummary>
+                              <AccordionDetails>
+                                  <TableContainer>
+                                      <Table size="small">
+                                          <TableHead>
+                                              <TableRow>
+                                                  <TableCell sx={{ textAlign: 'center', }}>Map #</TableCell>
+                                                  <TableCell sx={{ textAlign: 'center', }}>Short Name</TableCell>
+                                                  <TableCell sx={{ textAlign: 'center', }}>Long Name</TableCell>
+                                                  <TableCell sx={{ textAlign: 'center', }}>Brite Group</TableCell>
+                                              </TableRow>
+                                          </TableHead>
+                                          <TableBody>
+                                              {facility.maps
+                                                  .filter((m) =>
+                                                      !q
+                                                      || m.shortName.toLowerCase().includes(q.toLowerCase())
+                                                      || m.longName.toLowerCase().includes(q.toLowerCase()))
+                                                  .map((map) => (
+                                                      <TableRow key={map.number}>
+                                                          <TableCell sx={{ textAlign: 'center', fontWeight: 'bold', }}>{map.number}</TableCell>
+                                                          <TableCell sx={{ textAlign: 'center', }}>{map.shortName}</TableCell>
+                                                          <TableCell sx={{ textAlign: 'center', }}>{map.longName}</TableCell>
+                                                          <TableCell sx={{ textAlign: 'center', }}>{map.briteGroup}</TableCell>
+                                                      </TableRow>
+                                                  ))}
+                                          </TableBody>
+                                      </Table>
+                                  </TableContainer>
+                              </AccordionDetails>
+                          </Accordion>
+                      ))}
+          </Box>
+      </Stack>
   );
+
 }
