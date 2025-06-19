@@ -1,0 +1,1001 @@
+{
+  "name": "Potomac Consolidated TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "CBASE",
+      "longName": "CHP Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "CAPP",
+      "longName": "CHP Approaches",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "AMVA",
+      "longName": "PCT MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 4,
+      "shortName": "ASFRA",
+      "longName": "PCT SFRA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 5,
+      "shortName": "CSIDSTR",
+      "longName": "CHP SIDSTAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 6,
+      "shortName": "CMAPFIX",
+      "longName": "CHP Map Fixes",
+      "briteGroup": "B"
+    },
+    {
+      "number": 7,
+      "shortName": "CGPSAPP",
+      "longName": "CHP GPS Approach",
+      "briteGroup": "B"
+    },
+    {
+      "number": 8,
+      "shortName": "CHOLD",
+      "longName": "CHP Hold Areas",
+      "briteGroup": "B"
+    },
+    {
+      "number": 9,
+      "shortName": "CTWR",
+      "longName": "CHP Tower",
+      "briteGroup": "B"
+    },
+    {
+      "number": 10,
+      "shortName": "CVOR",
+      "longName": "CHP VOR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 11,
+      "shortName": "ABRAVO",
+      "longName": "PCT ClassB",
+      "briteGroup": "B"
+    },
+    {
+      "number": 12,
+      "shortName": "ADELTA",
+      "longName": "PCT ClassD",
+      "briteGroup": "B"
+    },
+    {
+      "number": 13,
+      "shortName": "AARPT",
+      "longName": "PCT Airport",
+      "briteGroup": "B"
+    },
+    {
+      "number": 14,
+      "shortName": "ACOAST",
+      "longName": "PCT Coastlines",
+      "briteGroup": "B"
+    },
+    {
+      "number": 15,
+      "shortName": "AHELO",
+      "longName": "PCT Helo Route",
+      "briteGroup": "B"
+    },
+    {
+      "number": 16,
+      "shortName": "AZONE",
+      "longName": "PCT Zones",
+      "briteGroup": "B"
+    },
+    {
+      "number": 17,
+      "shortName": "AROAD",
+      "longName": "PCT Roads",
+      "briteGroup": "B"
+    },
+    {
+      "number": 18,
+      "shortName": "AJRTE",
+      "longName": "PCT JAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 19,
+      "shortName": "AQRTE",
+      "longName": "PCT QAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 20,
+      "shortName": "ATRTE",
+      "longName": "PCT TAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 21,
+      "shortName": "AVRTE",
+      "longName": "PCT VAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 22,
+      "shortName": "SBASE",
+      "longName": "SHD Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 23,
+      "shortName": "SNORTH",
+      "longName": "SHD North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 24,
+      "shortName": "SSOUTH",
+      "longName": "SHD South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 25,
+      "shortName": "SSOUW12",
+      "longName": "SHD South 12",
+      "briteGroup": "A"
+    },
+    {
+      "number": 26,
+      "shortName": "SIADNSR",
+      "longName": "SHD IAD NSTAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 27,
+      "shortName": "SIADSSR",
+      "longName": "SHD IAD SSTAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 28,
+      "shortName": "SIADSID",
+      "longName": "SHD IAD SID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 29,
+      "shortName": "SSATSTR",
+      "longName": "SHD SAT STAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 30,
+      "shortName": "SHEFSID",
+      "longName": "SHD HEF SID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 31,
+      "shortName": "SRNV30",
+      "longName": "SHD IAD RNAV Vis 30",
+      "briteGroup": "B"
+    },
+    {
+      "number": 32,
+      "shortName": "SHOLD",
+      "longName": "SHD Hold Areas",
+      "briteGroup": "B"
+    },
+    {
+      "number": 33,
+      "shortName": "SSATAPP",
+      "longName": "SHD Sat Approach",
+      "briteGroup": "B"
+    },
+    {
+      "number": 34,
+      "shortName": "SSATGPS",
+      "longName": "SHD Sat GPS Approach",
+      "briteGroup": "B"
+    },
+    {
+      "number": 35,
+      "shortName": "SFIX",
+      "longName": "SHD Fixes",
+      "briteGroup": "B"
+    },
+    {
+      "number": 37,
+      "shortName": "MNORTH",
+      "longName": "MTV North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 38,
+      "shortName": "MSOUTH",
+      "longName": "MTV South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 39,
+      "shortName": "MADWN",
+      "longName": "MTV ADWN",
+      "briteGroup": "A"
+    },
+    {
+      "number": 40,
+      "shortName": "MADWS",
+      "longName": "MTV ADWS",
+      "briteGroup": "A"
+    },
+    {
+      "number": 41,
+      "shortName": "MDANSR",
+      "longName": "MTV DCA NSTAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 42,
+      "shortName": "MDCASSR",
+      "longName": "MTV DCA SSTAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 43,
+      "shortName": "MDCANSD",
+      "longName": "MTV DCA NSID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 44,
+      "shortName": "MDCASSD",
+      "longName": "MTV DCA SSID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 45,
+      "shortName": "MADWSTR",
+      "longName": "MTV ADW STAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 46,
+      "shortName": "MADWSID",
+      "longName": "MTV ADW SID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 47,
+      "shortName": "MBWISTR",
+      "longName": "MTV BWI STAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 48,
+      "shortName": "MCGSRNV",
+      "longName": "MTV CGS RNAV",
+      "briteGroup": "B"
+    },
+    {
+      "number": 49,
+      "shortName": "MDCAR33",
+      "longName": "MTV DCA R33",
+      "briteGroup": "A"
+    },
+    {
+      "number": 50,
+      "shortName": "MDCATCT",
+      "longName": "MTV DCATCT",
+      "briteGroup": "B"
+    },
+    {
+      "number": 51,
+      "shortName": "MOTHSID",
+      "longName": "MTV Other SID",
+      "briteGroup": "B"
+    },
+    {
+      "number": 52,
+      "shortName": "MRIVER",
+      "longName": "MTV River",
+      "briteGroup": "B"
+    },
+    {
+      "number": 53,
+      "shortName": "AMEGA",
+      "longName": "PCT MEGA Combined",
+      "briteGroup": "A"
+    },
+    {
+      "number": 54,
+      "shortName": "JNORTH",
+      "longName": "JRV North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 55,
+      "shortName": "JSOUTH",
+      "longName": "JRV South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 56,
+      "shortName": "JCSIDE",
+      "longName": "JRV CSIDE",
+      "briteGroup": "A"
+    },
+    {
+      "number": 57,
+      "shortName": "JSTAR",
+      "longName": "JRV STAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 58,
+      "shortName": "JWIGOL",
+      "longName": "JRV WIGOL STAR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 59,
+      "shortName": "JRNP02",
+      "longName": "JRV RIC RNP02",
+      "briteGroup": "A"
+    },
+    {
+      "number": 60,
+      "shortName": "JRNP16",
+      "longName": "JRV RIC RNP16",
+      "briteGroup": "A"
+    },
+    {
+      "number": 61,
+      "shortName": "RIC RNP20",
+      "longName": "JRV RIC RNP20",
+      "briteGroup": "A"
+    },
+    {
+      "number": 62,
+      "shortName": "JRNP34",
+      "longName": "JRV RIC RNP34",
+      "briteGroup": "A"
+    },
+    {
+      "number": 63,
+      "shortName": "JSATAPP",
+      "longName": "JRV Sat Approaches",
+      "briteGroup": "B"
+    },
+    {
+      "number": 64,
+      "shortName": "JRAREA",
+      "longName": "JRV RAREA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 65,
+      "shortName": "JFIXES",
+      "longName": "JRV Fixes",
+      "briteGroup": "A"
+    },
+    {
+      "number": 66,
+      "shortName": "ADW N",
+      "longName": "ADW North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 67,
+      "shortName": "ADW S",
+      "longName": "ADW South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 68,
+      "shortName": "Hold",
+      "longName": "ADW Hold",
+      "briteGroup": "B"
+    },
+    {
+      "number": 69,
+      "shortName": "RTE ZONE",
+      "longName": "ADW RTEZONE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 70,
+      "shortName": "ADW VFR",
+      "longName": "ADW VFR",
+      "briteGroup": "A"
+    },
+    {
+      "number": 71,
+      "shortName": "BWI ARE",
+      "longName": "BWI Area",
+      "briteGroup": "A"
+    },
+    {
+      "number": 72,
+      "shortName": "ASR",
+      "longName": "BWI ASR",
+      "briteGroup": "A"
+    },
+    {
+      "number": 73,
+      "shortName": "Tower",
+      "longName": "BWI Tower",
+      "briteGroup": "B"
+    },
+    {
+      "number": 74,
+      "shortName": "Sats",
+      "longName": "BWI Sats",
+      "briteGroup": "B"
+    },
+    {
+      "number": 75,
+      "shortName": "HELO",
+      "longName": "BWI Helo",
+      "briteGroup": "B"
+    },
+    {
+      "number": 76,
+      "shortName": "FME APP",
+      "longName": "BWI FME App",
+      "briteGroup": "A"
+    },
+    {
+      "number": 77,
+      "shortName": "CHO ARE",
+      "longName": "CHO Area",
+      "briteGroup": "A"
+    },
+    {
+      "number": 78,
+      "shortName": "CHO BAS",
+      "longName": "CHO Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 79,
+      "shortName": "RY21",
+      "longName": "CHO RNAV Y21",
+      "briteGroup": "A"
+    },
+    {
+      "number": 80,
+      "shortName": "RZ21",
+      "longName": "CHO RNAV Z21",
+      "briteGroup": "A"
+    },
+    {
+      "number": 81,
+      "shortName": "DAA BAS",
+      "longName": "DAA Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 82,
+      "shortName": "App",
+      "longName": "DAA Approach",
+      "briteGroup": "A"
+    },
+    {
+      "number": 83,
+      "shortName": "DAA GPS",
+      "longName": "DAA GPS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 84,
+      "shortName": "DAA VFR",
+      "longName": "DAA VFR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 85,
+      "shortName": "DCA N",
+      "longName": "DCA North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 86,
+      "shortName": "DCA S",
+      "longName": "DCA South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 87,
+      "shortName": "RNAV",
+      "longName": "DCA RNAV",
+      "briteGroup": "B"
+    },
+    {
+      "number": 88,
+      "shortName": "Main",
+      "longName": "ESN Main",
+      "briteGroup": "A"
+    },
+    {
+      "number": 89,
+      "shortName": "Fixes",
+      "longName": "ESN Fixes",
+      "briteGroup": "B"
+    },
+    {
+      "number": 90,
+      "shortName": "VOR",
+      "longName": "ESN VORs",
+      "briteGroup": "B"
+    },
+    {
+      "number": 91,
+      "shortName": "HEF BAS",
+      "longName": "HEF Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 92,
+      "shortName": "HEF ILS",
+      "longName": "HEF ILS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 93,
+      "shortName": "HEF GPS",
+      "longName": "HEF GPS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 94,
+      "shortName": "16R",
+      "longName": "HEF 16R",
+      "briteGroup": "A"
+    },
+    {
+      "number": 95,
+      "shortName": "HEF VFR",
+      "longName": "HEF VFR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 96,
+      "shortName": "IAD FIN",
+      "longName": "HEF IAD Finals",
+      "briteGroup": "B"
+    },
+    {
+      "number": 97,
+      "shortName": "IAD N",
+      "longName": "IAD North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 98,
+      "shortName": "IAD S",
+      "longName": "IAD South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 99,
+      "shortName": "RW12",
+      "longName": "IAD South w12",
+      "briteGroup": "A"
+    },
+    {
+      "number": 101,
+      "shortName": "AMEEE",
+      "longName": "DCA SID AMEEE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 102,
+      "shortName": "CLTCH",
+      "longName": "DCA SID CLTCH",
+      "briteGroup": "B"
+    },
+    {
+      "number": 103,
+      "shortName": "DOCTR",
+      "longName": "DCA SID DOCTR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 104,
+      "shortName": "HORTO",
+      "longName": "DCA SID HORTO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 105,
+      "shortName": "JDUBB",
+      "longName": "DCA SID JDUBB",
+      "briteGroup": "B"
+    },
+    {
+      "number": 106,
+      "shortName": "REBLL",
+      "longName": "DCA SID REBLL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 107,
+      "shortName": "SCRAM",
+      "longName": "DCA SID SCRAM",
+      "briteGroup": "B"
+    },
+    {
+      "number": 108,
+      "shortName": "SOOKI",
+      "longName": "DCA SID SOOKI",
+      "briteGroup": "B"
+    },
+    {
+      "number": 109,
+      "shortName": "WYNGS",
+      "longName": "DCA SID WYNGS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 111,
+      "shortName": "CONLE",
+      "longName": "BWI SID CONLE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 112,
+      "shortName": "DUKPN",
+      "longName": "BWI SID DUKPN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 113,
+      "shortName": "FIXET",
+      "longName": "BWI SID FIXET",
+      "briteGroup": "B"
+    },
+    {
+      "number": 114,
+      "shortName": "FOXHL",
+      "longName": "BWI SID FOXHL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 115,
+      "shortName": "LINSE",
+      "longName": "BWI SID LINSE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 116,
+      "shortName": "TERPZ",
+      "longName": "BWI SID TERPZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 121,
+      "shortName": "BUNZZ",
+      "longName": "IAD SID BUNZZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 123,
+      "shortName": "JCOBY",
+      "longName": "IAD SID JCOBY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 125,
+      "shortName": "JERES",
+      "longName": "IAD SID JERES",
+      "briteGroup": "B"
+    },
+    {
+      "number": 126,
+      "shortName": "MCRAY",
+      "longName": "IAD SID MCRAY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 127,
+      "shortName": "RNLDI",
+      "longName": "IAD SID RNLDI",
+      "briteGroup": "B"
+    },
+    {
+      "number": 129,
+      "shortName": "WOOLY",
+      "longName": "IAD SID WOOLY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 131,
+      "shortName": "COLIN",
+      "longName": "RIC SID COLIN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 132,
+      "shortName": "KALLI",
+      "longName": "RIC SID KALLI",
+      "briteGroup": "B"
+    },
+    {
+      "number": 133,
+      "shortName": "LUCYL",
+      "longName": "RIC SID LUCYL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 134,
+      "shortName": "READE",
+      "longName": "RIC SID READE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 201,
+      "shortName": "CAPSS",
+      "longName": "DCA STAR CAPSS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 202,
+      "shortName": "CLIPR",
+      "longName": "DCA STAR CLIPR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 203,
+      "shortName": "DEALE",
+      "longName": "DCA STAR DEALE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 204,
+      "shortName": "FRDMM",
+      "longName": "DCA STAR FRDMM",
+      "briteGroup": "B"
+    },
+    {
+      "number": 205,
+      "shortName": "IRONS",
+      "longName": "DCA STAR IRONS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 206,
+      "shortName": "NUMMY",
+      "longName": "DCA STAR NUMMY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 207,
+      "shortName": "SKILS",
+      "longName": "DCA STAR SKILS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 208,
+      "shortName": "TIKEE",
+      "longName": "DCA STAR TIKEE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 209,
+      "shortName": "TRUPS",
+      "longName": "DCA STAR TRUPS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 211,
+      "shortName": "ANTHM",
+      "longName": "BWI STAR ANTHM",
+      "briteGroup": "B"
+    },
+    {
+      "number": 212,
+      "shortName": "MIIDY",
+      "longName": "BWI STAR MIIDY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 213,
+      "shortName": "RAVNN",
+      "longName": "BWI STAR RAVNN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 214,
+      "shortName": "TRISH",
+      "longName": "BWI STAR TRISH",
+      "briteGroup": "B"
+    },
+    {
+      "number": 215,
+      "shortName": "EMI",
+      "longName": "BWI STAR EMI",
+      "briteGroup": "B"
+    },
+    {
+      "number": 221,
+      "shortName": "CAVLR",
+      "longName": "IAD STAR CAVLR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 222,
+      "shortName": "COATT",
+      "longName": "IAD STAR COATT",
+      "briteGroup": "B"
+    },
+    {
+      "number": 223,
+      "shortName": "DELRO",
+      "longName": "IAD STAR DELRO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 224,
+      "shortName": "DOCCS",
+      "longName": "IAD STAR DOCCS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 225,
+      "shortName": "GIBBZ",
+      "longName": "IAD STAR GIBBZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 226,
+      "shortName": "HYPER",
+      "longName": "IAD STAR HYPER",
+      "briteGroup": "B"
+    },
+    {
+      "number": 227,
+      "shortName": "PRIVO",
+      "longName": "IAD STAR PRIVO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 228,
+      "shortName": "PRTZL",
+      "longName": "IAD STAR PRTZL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 229,
+      "shortName": "SEG",
+      "longName": "IAD STAR SEG",
+      "briteGroup": "B"
+    },
+    {
+      "number": 230,
+      "shortName": "WAYNZ",
+      "longName": "IAD STAR WAYNZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 231,
+      "shortName": "WIGOL",
+      "longName": "IAD STAR WIGOL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 241,
+      "shortName": "DUCXS",
+      "longName": "RIC STAR DUCXS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 243,
+      "shortName": "POWTN",
+      "longName": "RIC STAR POWTN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 700,
+      "shortName": "DCAFRN",
+      "longName": "DCAFR North",
+      "briteGroup": "B"
+    },
+    {
+      "number": 701,
+      "shortName": "DCAFRS",
+      "longName": "DCAFR South",
+      "briteGroup": "B"
+    },
+    {
+      "number": 702,
+      "shortName": "KRANTN",
+      "longName": "KRANT North",
+      "briteGroup": "B"
+    },
+    {
+      "number": 703,
+      "shortName": "KRANTS",
+      "longName": "KRANT South",
+      "briteGroup": "B"
+    },
+    {
+      "number": 704,
+      "shortName": "LURAY",
+      "longName": "LURAY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 705,
+      "shortName": "OJAAYN",
+      "longName": "OJAAY North",
+      "briteGroup": "B"
+    },
+    {
+      "number": 706,
+      "shortName": "OJAAYS",
+      "longName": "OJAAY South",
+      "briteGroup": "B"
+    },
+    {
+      "number": 707,
+      "shortName": "TYSONN",
+      "longName": "TYSON North",
+      "briteGroup": "B"
+    },
+    {
+      "number": 708,
+      "shortName": "TYSONS",
+      "longName": "TYSON South",
+      "briteGroup": "B"
+    },
+    {
+      "number": 800,
+      "shortName": "BASE",
+      "longName": "MTN Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 801,
+      "shortName": "MTN ILS",
+      "longName": "MTN ILS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 802,
+      "shortName": "LOC",
+      "longName": "MTN LOC",
+      "briteGroup": "B"
+    },
+    {
+      "number": 803,
+      "shortName": "OIA",
+      "longName": "MTN OIA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 804,
+      "shortName": "OIB",
+      "longName": "MTN OIB",
+      "briteGroup": "B"
+    },
+    {
+      "number": 805,
+      "shortName": "AREA",
+      "longName": "HGR Area",
+      "briteGroup": "A"
+    },
+    {
+      "number": 999,
+      "shortName": "ZDC",
+      "longName": "ZDC CTR BDRY",
+      "briteGroup": "B"
+    }
+  ]
+}

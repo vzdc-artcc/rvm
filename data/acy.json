@@ -1,0 +1,17 @@
+{
+  "name": "Atlantic City TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "ACY RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "MVA",
+      "longName": "ACY MVA",
+      "briteGroup": "B"
+    }
+  ]
+}

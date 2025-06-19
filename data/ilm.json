@@ -1,0 +1,29 @@
+{
+  "name": "Wilmington TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "E/W RVM",
+      "longName": "ILM E W RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "N/S RVM",
+      "longName": "ILM N S RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "MVA",
+      "longName": "ILM MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 10,
+      "shortName": "AIRSPCE",
+      "longName": "ZDC Airspace",
+      "briteGroup": "A"
+    }
+  ]
+}
