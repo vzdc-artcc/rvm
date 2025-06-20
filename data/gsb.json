@@ -1,0 +1,11 @@
+{
+  "name": "Seymour Johnson RAPCON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "GSB Base",
+      "briteGroup": "A"
+    }
+  ]
+}

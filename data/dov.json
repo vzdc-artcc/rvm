@@ -1,0 +1,11 @@
+{
+  "name": "Dover RAPCON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "DOV Base",
+      "briteGroup": "A"
+    }
+  ]
+}

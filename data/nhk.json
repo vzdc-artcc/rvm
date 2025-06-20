@@ -1,0 +1,89 @@
+{
+  "name": "Patuxent RAPCON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "NHK Base",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "AMVA",
+      "longName": "PCT MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 4,
+      "shortName": "ASFRA",
+      "longName": "PCT SFRA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 14,
+      "shortName": "ACOAST",
+      "longName": "PCT Coastlines",
+      "briteGroup": "B"
+    },
+    {
+      "number": 16,
+      "shortName": "AZONE",
+      "longName": "PCT Zones",
+      "briteGroup": "B"
+    },
+    {
+      "number": 17,
+      "shortName": "AROAD",
+      "longName": "PCT Roads",
+      "briteGroup": "B"
+    },
+    {
+      "number": 20,
+      "shortName": "ATRTE",
+      "longName": "PCT TAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 21,
+      "shortName": "AVRTE",
+      "longName": "PCT VAirway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 53,
+      "shortName": "AMEGA",
+      "longName": "PCT MEGA Combined",
+      "briteGroup": "A"
+    },
+    {
+      "number": 54,
+      "shortName": "JNORTH",
+      "longName": "JRV North",
+      "briteGroup": "A"
+    },
+    {
+      "number": 55,
+      "shortName": "JSOUTH",
+      "longName": "JRV South",
+      "briteGroup": "A"
+    },
+    {
+      "number": 63,
+      "shortName": "JSATAPP",
+      "longName": "JRV Sat Approaches",
+      "briteGroup": "B"
+    },
+    {
+      "number": 64,
+      "shortName": "JRAREA",
+      "longName": "JRV RAREA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 65,
+      "shortName": "JFIXES",
+      "longName": "JRV Fixes",
+      "briteGroup": "A"
+    }
+  ]
+}

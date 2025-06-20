@@ -1,0 +1,84 @@
+{
+  "name": "Cherry Point RAPCON",
+  "maps": [
+    {
+      "number": 2,
+      "shortName": "NKT RVM",
+      "longName": "NKT RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "APP",
+      "longName": "NKT Approaches",
+      "briteGroup": "A"
+    },
+    {
+      "number": 4,
+      "shortName": "COUNTY",
+      "longName": "NC_County",
+      "briteGroup": "B"
+    },
+    {
+      "number": 5,
+      "shortName": "SHORE",
+      "longName": "NKT Shore",
+      "briteGroup": "B"
+    },
+    {
+      "number": 6,
+      "shortName": "MTR",
+      "longName": "NKT MTR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 7,
+      "shortName": "MVA",
+      "longName": "NKT MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 8,
+      "shortName": "LOWAWY",
+      "longName": "NKT Low Airway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 9,
+      "shortName": "HIAWY",
+      "longName": "NKT High Airway",
+      "briteGroup": "B"
+    },
+    {
+      "number": 10,
+      "shortName": "AIRSPCE",
+      "longName": "ZDC Airspace",
+      "briteGroup": "A"
+    },
+
+    {
+      "number": 15,
+      "shortName": "MOA",
+      "longName": "ZDC MOA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 16,
+      "shortName": "RESTRIC",
+      "longName": "ZDC Restricted Areas",
+      "briteGroup": "B"
+    },
+    {
+      "number": 17,
+      "shortName": "ALERT",
+      "longName": "ZDC Alert Area",
+      "briteGroup": "B"
+    },
+    {
+      "number": 18,
+      "shortName": "WARN",
+      "longName": "ZDC Warning Areas",
+      "briteGroup": "B"
+    }
+  ]
+}

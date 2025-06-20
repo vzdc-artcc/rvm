@@ -1,0 +1,17 @@
+{
+  "name": "Oceana RAPCON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "SW RVM",
+      "longName": "ORF SW RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "NE RVM",
+      "longName": "ORF NE RVM",
+      "briteGroup": "A"
+    }
+  ]
+}

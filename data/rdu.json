@@ -1,0 +1,107 @@
+{
+  "name": "Raleigh TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "SW RVM",
+      "longName": "RDU SW RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "NE RVM",
+      "longName": "RDU NE RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "MVA",
+      "longName": "RDU MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 101,
+      "shortName": "BEXGO",
+      "longName": "RDU SID BEXGO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 102,
+      "shortName": "HOOKZ",
+      "longName": "RDU SID HOOKZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 103,
+      "shortName": "HURIC",
+      "longName": "RDU SID HURIC",
+      "briteGroup": "B"
+    },
+    {
+      "number": 104,
+      "shortName": "LWOOD",
+      "longName": "RDU SID LWOOD",
+      "briteGroup": "B"
+    },
+    {
+      "number": 105,
+      "shortName": "OXFRD",
+      "longName": "RDU SID OXFRD",
+      "briteGroup": "B"
+    },
+    {
+      "number": 106,
+      "shortName": "ROZBO",
+      "longName": "RDU SID ROZBO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 107,
+      "shortName": "SHPRD",
+      "longName": "RDU SID SHPRD",
+      "briteGroup": "B"
+    },
+    {
+      "number": 201,
+      "shortName": "ALDAN",
+      "longName": "RDU STAR ALDAN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 202,
+      "shortName": "BLOGS",
+      "longName": "RDU STAR BLOGS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 203,
+      "shortName": "BRADE",
+      "longName": "RDU STAR BRADE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 204,
+      "shortName": "BUZZY",
+      "longName": "RDU STAR BUZZY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 205,
+      "shortName": "DMSTR",
+      "longName": "RDU STAR DMSTR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 206,
+      "shortName": "TAQLE",
+      "longName": "RDU STAR TAQLE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 999,
+      "shortName": "ZDC",
+      "longName": "ZDC CTR BDRY",
+      "briteGroup": "B"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Fayetteville TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "FAY RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "MVA",
+      "longName": "FAY MVA",
+      "briteGroup": "B"
+    }
+  ]
+}

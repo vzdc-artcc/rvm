@@ -1,0 +1,29 @@
+{
+  "name": "Norfolk TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "SW RVM",
+      "longName": "ORF SW RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 2,
+      "shortName": "NE RVM",
+      "longName": "ORF NE RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "MVA",
+      "longName": "ORF MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 4,
+      "shortName": "VFR",
+      "longName": "ORF VFR",
+      "briteGroup": "B"
+    }
+  ]
+}

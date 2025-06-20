@@ -1,0 +1,41 @@
+{
+  "name": "Roanoke TRACON",
+  "maps": [
+    {
+      "number": 1,
+      "shortName": "RVM",
+      "longName": "ROA RVM",
+      "briteGroup": "A"
+    },
+    {
+      "number": 3,
+      "shortName": "MVA",
+      "longName": "ROA MVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 4,
+      "shortName": "VFR",
+      "longName": "ROA VFR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 5,
+      "shortName": "CLASS C",
+      "longName": "ROA CLASS C",
+      "briteGroup": "B"
+    },
+    {
+      "number": 98,
+      "shortName": "ZDCBDRY",
+      "longName": "ZDC Boundary",
+      "briteGroup": "B"
+    },
+    {
+      "number": 99,
+      "shortName": "APPBDRY",
+      "longName": "ZDC Approach BDRY",
+      "briteGroup": "A"
+    }
+  ]
+}
