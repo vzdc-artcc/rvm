@@ -12,6 +12,48 @@
       "shortName": "MVA",
       "longName": "FAY MVA",
       "briteGroup": "B"
+    },
+    {
+      "number": 100,
+      "shortName": "I04",
+      "longName": "KFAY IAP I04",
+      "briteGroup": "B"
+    },
+    {
+      "number": 101,
+      "shortName": "L04",
+      "longName": "KFAY IAP L04",
+      "briteGroup": "B"
+    },
+    {
+      "number": 102,
+      "shortName": "R04",
+      "longName": "KFAY IAP R04",
+      "briteGroup": "B"
+    },
+    {
+      "number": 103,
+      "shortName": "R22",
+      "longName": "KFAY IAP R22",
+      "briteGroup": "B"
+    },
+    {
+      "number": 104,
+      "shortName": "R10",
+      "longName": "KFAY IAP R10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 105,
+      "shortName": "R28",
+      "longName": "KFAY IAP R28",
+      "briteGroup": "B"
+    },
+    {
+      "number": 106,
+      "shortName": "B22",
+      "longName": "KFAY IAP B22",
+      "briteGroup": "B"
     }
   ]
 }
