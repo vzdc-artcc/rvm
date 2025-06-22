@@ -24,6 +24,84 @@
       "shortName": "VFR",
       "longName": "ORF VFR",
       "briteGroup": "B"
+    },
+    {
+      "number": 200,
+      "shortName": "DRONE",
+      "longName": "ORF STAR DRONE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 201,
+      "shortName": "TERKS",
+      "longName": "ORF STAR TERKS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 300,
+      "shortName": "I05",
+      "longName": "ORF IAP I05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 301,
+      "shortName": "I23",
+      "longName": "ORF IAP I23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 302,
+      "shortName": "L05",
+      "longName": "ORF IAP L05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 303,
+      "shortName": "L23",
+      "longName": "ORF IAP L23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 304,
+      "shortName": "H05Y",
+      "longName": "ORF IAP H05Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 305,
+      "shortName": "H23Y",
+      "longName": "ORF IAP H23Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 306,
+      "shortName": "R05Z",
+      "longName": "ORF IAP R05Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 307,
+      "shortName": "R14",
+      "longName": "ORF IAP R14",
+      "briteGroup": "B"
+    },
+    {
+      "number": 308,
+      "shortName": "R23Z",
+      "longName": "ORF IAP R23Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 309,
+      "shortName": "R32",
+      "longName": "ORF IAP R32",
+      "briteGroup": "B"
+    },
+    {
+      "number": 310,
+      "shortName": "S14",
+      "longName": "ORF IAP S14",
+      "briteGroup": "B"
     }
   ]
 }
