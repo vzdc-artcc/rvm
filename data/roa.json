@@ -8,6 +8,12 @@
       "briteGroup": "A"
     },
     {
+      "number": 2,
+      "shortName": "SECT",
+      "longName": "ROA SECTORS",
+      "briteGroup": "B"
+    },
+    {
       "number": 3,
       "shortName": "MVA",
       "longName": "ROA MVA",
@@ -36,6 +42,66 @@
       "shortName": "APPBDRY",
       "longName": "ZDC Approach BDRY",
       "briteGroup": "A"
+    },
+    {
+      "number": 100,
+      "shortName": "BUFIY",
+      "longName": "ROA SID BUFIY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 101,
+      "shortName": "MONAT",
+      "longName": "ROA SID MONAT",
+      "briteGroup": "B"
+    },
+    {
+      "number": 102,
+      "shortName": "SCUTA",
+      "longName": "ROA SID SCUTA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 300,
+      "shortName": "H06Z",
+      "longName": "ROA IAP H06Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 301,
+      "shortName": "H24Z",
+      "longName": "ROA IAP H24Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 302,
+      "shortName": "H34Z",
+      "longName": "ROA IAP H34Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 303,
+      "shortName": "R06Y",
+      "longName": "ROA IAP R06Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 304,
+      "shortName": "R24Y",
+      "longName": "ROA IAP R24Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 305,
+      "shortName": "R34Y",
+      "longName": "ROA IAP R34Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 306,
+      "shortName": "X06Y",
+      "longName": "ROA IAP X06Y",
+      "briteGroup": "B"
     }
   ]
 }
