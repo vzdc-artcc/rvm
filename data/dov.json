@@ -6,6 +6,12 @@
       "shortName": "RVM",
       "longName": "DOV Base",
       "briteGroup": "A"
+    },
+    {
+      "number": 200,
+      "shortName": "ARLFT",
+      "longName": "KDOV STAR ARLFT",
+      "briteGroup": "B"
     }
   ]
 }
