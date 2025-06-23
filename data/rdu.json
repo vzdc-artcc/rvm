@@ -20,81 +20,183 @@
       "briteGroup": "B"
     },
     {
-      "number": 101,
+      "number": 100,
       "shortName": "BEXGO",
       "longName": "RDU SID BEXGO",
       "briteGroup": "B"
     },
     {
-      "number": 102,
+      "number": 101,
       "shortName": "HOOKZ",
       "longName": "RDU SID HOOKZ",
       "briteGroup": "B"
     },
     {
-      "number": 103,
+      "number": 102,
       "shortName": "HURIC",
       "longName": "RDU SID HURIC",
       "briteGroup": "B"
     },
     {
-      "number": 104,
+      "number": 103,
       "shortName": "LWOOD",
       "longName": "RDU SID LWOOD",
       "briteGroup": "B"
     },
     {
-      "number": 105,
+      "number": 104,
       "shortName": "OXFRD",
       "longName": "RDU SID OXFRD",
       "briteGroup": "B"
     },
     {
-      "number": 106,
+      "number": 105,
       "shortName": "ROZBO",
       "longName": "RDU SID ROZBO",
       "briteGroup": "B"
     },
     {
-      "number": 107,
+      "number": 106,
       "shortName": "SHPRD",
       "longName": "RDU SID SHPRD",
       "briteGroup": "B"
     },
     {
-      "number": 201,
+      "number": 200,
       "shortName": "ALDAN",
       "longName": "RDU STAR ALDAN",
       "briteGroup": "B"
     },
     {
-      "number": 202,
+      "number": 201,
       "shortName": "BLOGS",
       "longName": "RDU STAR BLOGS",
       "briteGroup": "B"
     },
     {
-      "number": 203,
+      "number": 202,
       "shortName": "BRADE",
       "longName": "RDU STAR BRADE",
       "briteGroup": "B"
     },
     {
-      "number": 204,
+      "number": 203,
       "shortName": "BUZZY",
       "longName": "RDU STAR BUZZY",
       "briteGroup": "B"
     },
     {
-      "number": 205,
+      "number": 204,
       "shortName": "DMSTR",
       "longName": "RDU STAR DMSTR",
       "briteGroup": "B"
     },
     {
-      "number": 206,
+      "number": 205,
       "shortName": "TAQLE",
       "longName": "RDU STAR TAQLE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 300,
+      "shortName": "I05L",
+      "longName": "RDU IAP I05L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 301,
+      "shortName": "I05R",
+      "longName": "RDU IAP I05R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 302,
+      "shortName": "I23L",
+      "longName": "RDU IAP I23L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 303,
+      "shortName": "I23R",
+      "longName": "RDU IAP I23R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 304,
+      "shortName": "L05L",
+      "longName": "RDU IAP L05L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 305,
+      "shortName": "L05R",
+      "longName": "RDU IAP L05R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 306,
+      "shortName": "L23L",
+      "longName": "RDU IAP L23L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 307,
+      "shortName": "L23R",
+      "longName": "RDU IAP L23R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 308,
+      "shortName": "H05LZ",
+      "longName": "RDU IAP H05LZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 309,
+      "shortName": "HO5RZ",
+      "longName": "RDU IAP H05RZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 310,
+      "shortName": "H23LZ",
+      "longName": "RDU IAP H23LZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 311,
+      "shortName": "H23RZ",
+      "longName": "RDU IAP H23RZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 312,
+      "shortName": "R05LY",
+      "longName": "RDU IAP R05LY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 313,
+      "shortName": "R05RY",
+      "longName": "RDU IAP R05RY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 314,
+      "shortName": "R23LY",
+      "longName": "RDU IAP R23LY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 315,
+      "shortName": "R23RY",
+      "longName": "RDU IAP R23RY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 316,
+      "shortName": "R32",
+      "longName": "RDU IAP R32",
       "briteGroup": "B"
     },
     {
