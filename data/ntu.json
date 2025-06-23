@@ -12,6 +12,12 @@
       "shortName": "NE RVM",
       "longName": "ORF NE RVM",
       "briteGroup": "A"
+    },
+    {
+      "number": 200,
+      "shortName": "TERKS",
+      "longName": "KNTU STAR TERKS",
+      "briteGroup": "B"
     }
   ]
 }
