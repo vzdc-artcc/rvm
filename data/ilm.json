@@ -22,73 +22,121 @@
     {
       "number": 10,
       "shortName": "AIRSPCE",
-      "longName": "ZDC Airspace",
+      "longName": "ZDC AIRSPACE",
       "briteGroup": "A"
     },
     {
-      "number": 300,
-      "shortName": "I06Y",
-      "longName": "ILM IAP I06Y",
-      "briteGroup": "B"
-    },
-    {
       "number": 301,
-      "shortName": "I06Z",
-      "longName": "ILM IAP I06Z",
+      "shortName": "I06Y",
+      "longName": "IAP ILM I06Y",
       "briteGroup": "B"
     },
     {
       "number": 302,
-      "shortName": "I24Y",
-      "longName": "ILM IAP I24Y",
+      "shortName": "I06Z",
+      "longName": "IAP ILM I06Z",
       "briteGroup": "B"
     },
     {
       "number": 303,
-      "shortName": "I24Z",
-      "longName": "ILM IAP I24Z",
+      "shortName": "I24Y",
+      "longName": "IAP ILM I24Y",
       "briteGroup": "B"
     },
     {
       "number": 304,
-      "shortName": "I35Z",
-      "longName": "ILM IAP I35Z",
+      "shortName": "I24Z",
+      "longName": "IAP ILM I24Z",
       "briteGroup": "B"
     },
     {
       "number": 305,
-      "shortName": "L06",
-      "longName": "ILM IAP L06",
+      "shortName": "I35Z",
+      "longName": "IAP ILM I35Z",
       "briteGroup": "B"
     },
     {
       "number": 306,
-      "shortName": "L24",
-      "longName": "ILM IAP L24",
+      "shortName": "L06",
+      "longName": "IAP ILM L06",
       "briteGroup": "B"
     },
     {
       "number": 307,
-      "shortName": "R06",
-      "longName": "ILM IAP R06",
+      "shortName": "L24",
+      "longName": "IAP ILM L24",
       "briteGroup": "B"
     },
     {
       "number": 308,
-      "shortName": "R17",
-      "longName": "ILM IAP R17",
+      "shortName": "R06",
+      "longName": "IAP ILM R06",
       "briteGroup": "B"
     },
     {
       "number": 309,
-      "shortName": "R24",
-      "longName": "ILM IAP R24",
+      "shortName": "R17",
+      "longName": "IAP ILM R17",
       "briteGroup": "B"
     },
     {
       "number": 310,
+      "shortName": "R24",
+      "longName": "IAP ILM R24",
+      "briteGroup": "B"
+    },
+    {
+      "number": 311,
       "shortName": "R35",
-      "longName": "ILM IAP R35",
+      "longName": "IAP ILM R35",
+      "briteGroup": "B"
+    },
+    {
+      "number": 501,
+      "shortName": "R09",
+      "longName": "IAP ACZ R09",
+      "briteGroup": "B"
+    },
+    {
+      "number": 502,
+      "shortName": "R27",
+      "longName": "IAP ACZ R27",
+      "briteGroup": "B"
+    },
+    {
+      "number": 511,
+      "shortName": "I05",
+      "longName": "IAP OAJ I05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 512,
+      "shortName": "L05",
+      "longName": "IAP OAJ L05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 513,
+      "shortName": "R05",
+      "longName": "IAP OAJ R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 514,
+      "shortName": "R23",
+      "longName": "IAP OAJ R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 521,
+      "shortName": "R05",
+      "longName": "IAP SUT R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 522,
+      "shortName": "R23",
+      "longName": "IAP SUT R23",
       "briteGroup": "B"
     }
   ]
