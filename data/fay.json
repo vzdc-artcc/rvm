@@ -14,45 +14,219 @@
       "briteGroup": "B"
     },
     {
-      "number": 300,
-      "shortName": "I04",
-      "longName": "FAY IAP I04",
-      "briteGroup": "B"
-    },
-    {
       "number": 301,
-      "shortName": "L04",
-      "longName": "FAY IAP L04",
+      "shortName": "I04",
+      "longName": "IAP FAY I04",
       "briteGroup": "B"
     },
     {
       "number": 302,
-      "shortName": "R04",
-      "longName": "FAY IAP R04",
+      "shortName": "L04",
+      "longName": "IAP FAY L04",
       "briteGroup": "B"
     },
     {
       "number": 303,
-      "shortName": "R22",
-      "longName": "FAY IAP R22",
+      "shortName": "R04",
+      "longName": "IAP FAY R04",
       "briteGroup": "B"
     },
     {
       "number": 304,
-      "shortName": "R10",
-      "longName": "FAY IAP R10",
+      "shortName": "R22",
+      "longName": "IAP FAY R22",
       "briteGroup": "B"
     },
     {
       "number": 305,
-      "shortName": "R28",
-      "longName": "FAY IAP R28",
+      "shortName": "R10",
+      "longName": "IAP FAY R10",
       "briteGroup": "B"
     },
     {
       "number": 306,
+      "shortName": "R28",
+      "longName": "IAP FAY R28",
+      "briteGroup": "B"
+    },
+    {
+      "number": 307,
       "shortName": "B22",
-      "longName": "FAY IAP B22",
+      "longName": "IAP FAY B22",
+      "briteGroup": "B"
+    },
+    {
+      "number": 501,
+      "shortName": "R06",
+      "longName": "IAP CTZ R06",
+      "briteGroup": "B"
+    },
+    {
+      "number": 502,
+      "shortName": "R24Y",
+      "longName": "IAP CTZ R24Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 503,
+      "shortName": "R24Z",
+      "longName": "IAP CTZ R24Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 504,
+      "shortName": "VDMA",
+      "longName": "IAP CTZ VDMA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 511,
+      "shortName": "D15",
+      "longName": "IAP EYF D15",
+      "briteGroup": "B"
+    },
+    {
+      "number": 512,
+      "shortName": "R15",
+      "longName": "IAP EYF R15",
+      "briteGroup": "B"
+    },
+    {
+      "number": 513,
+      "shortName": "R33",
+      "longName": "IAP EYF R33",
+      "briteGroup": "B"
+    },
+    {
+      "number": 521,
+      "shortName": "L05",
+      "longName": "IAP HRJ L05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 522,
+      "shortName": "N23",
+      "longName": "IAP HRJ N23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 523,
+      "shortName": "R05",
+      "longName": "IAP HRJ R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 524,
+      "shortName": "R23",
+      "longName": "IAP HRJ R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 531,
+      "shortName": "I05",
+      "longName": "IAP LBT I05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 532,
+      "shortName": "L05",
+      "longName": "IAP LBT L05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 533,
+      "shortName": "R05",
+      "longName": "IAP LBT R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 534,
+      "shortName": "R13",
+      "longName": "IAP LBT R13",
+      "briteGroup": "B"
+    },
+    {
+      "number": 535,
+      "shortName": "R23",
+      "longName": "IAP LBT R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 541,
+      "shortName": "R05",
+      "longName": "IAP MEB R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 542,
+      "shortName": "R23",
+      "longName": "IAP MEB R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 551,
+      "shortName": "R32",
+      "longName": "IAP RCZ R32",
+      "briteGroup": "B"
+    },
+    {
+      "number": 561,
+      "shortName": "I05Y",
+      "longName": "IAP SOP I05Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 562,
+      "shortName": "I05Z",
+      "longName": "IAP SOP I05Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 563,
+      "shortName": "L05Y",
+      "longName": "IAP SOP L05Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 564,
+      "shortName": "L05Z",
+      "longName": "IAP SOP L05Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 565,
+      "shortName": "R05",
+      "longName": "IAP SOP R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 566,
+      "shortName": "R23",
+      "longName": "IAP SOP R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 571,
+      "shortName": "RNVA",
+      "longName": "IAP 5W4 RNVA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 572,
+      "shortName": "VORA",
+      "longName": "IAP 5W4 VORA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 581,
+      "shortName": "R03",
+      "longName": "IAP 43A R03",
+      "briteGroup": "B"
+    },
+    {
+      "number": 582,
+      "shortName": "R21",
+      "longName": "IAP 43A R21",
       "briteGroup": "B"
     }
   ]
