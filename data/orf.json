@@ -26,81 +26,249 @@
       "briteGroup": "B"
     },
     {
-      "number": 200,
-      "shortName": "DRONE",
-      "longName": "ORF STAR DRONE",
-      "briteGroup": "B"
-    },
-    {
       "number": 201,
-      "shortName": "TERKS",
-      "longName": "ORF STAR TERKS",
+      "shortName": "DRONE",
+      "longName": "STAR ORF DRONE",
       "briteGroup": "B"
     },
     {
-      "number": 300,
-      "shortName": "I05",
-      "longName": "ORF IAP I05",
+      "number": 202,
+      "shortName": "TERKS",
+      "longName": "STAR ORF TERKS",
       "briteGroup": "B"
     },
     {
       "number": 301,
-      "shortName": "I23",
-      "longName": "ORF IAP I23",
+      "shortName": "I05",
+      "longName": "IAP ORF I05",
       "briteGroup": "B"
     },
     {
       "number": 302,
-      "shortName": "L05",
-      "longName": "ORF IAP L05",
+      "shortName": "I23",
+      "longName": "IAP ORF I23",
       "briteGroup": "B"
     },
     {
       "number": 303,
-      "shortName": "L23",
-      "longName": "ORF IAP L23",
+      "shortName": "L05",
+      "longName": "IAP ORF L05",
       "briteGroup": "B"
     },
     {
       "number": 304,
-      "shortName": "H05Y",
-      "longName": "ORF IAP H05Y",
+      "shortName": "L23",
+      "longName": "IAP ORF L23",
       "briteGroup": "B"
     },
     {
       "number": 305,
-      "shortName": "H23Y",
-      "longName": "ORF IAP H23Y",
+      "shortName": "H05Y",
+      "longName": "IAP ORF H05Y",
       "briteGroup": "B"
     },
     {
       "number": 306,
-      "shortName": "R05Z",
-      "longName": "ORF IAP R05Z",
+      "shortName": "H23Y",
+      "longName": "IAP ORF H23Y",
       "briteGroup": "B"
     },
     {
       "number": 307,
-      "shortName": "R14",
-      "longName": "ORF IAP R14",
+      "shortName": "R05Z",
+      "longName": "IAP ORF R05Z",
       "briteGroup": "B"
     },
     {
       "number": 308,
-      "shortName": "R23Z",
-      "longName": "ORF IAP R23Z",
+      "shortName": "R14",
+      "longName": "IAP ORF R14",
       "briteGroup": "B"
     },
     {
       "number": 309,
-      "shortName": "R32",
-      "longName": "ORF IAP R32",
+      "shortName": "R23Z",
+      "longName": "IAP ORF R23Z",
       "briteGroup": "B"
     },
     {
       "number": 310,
+      "shortName": "R32",
+      "longName": "IAP ORF R32",
+      "briteGroup": "B"
+    },
+    {
+      "number": 311,
       "shortName": "S14",
-      "longName": "ORF IAP S14",
+      "longName": "IAP ORF S14",
+      "briteGroup": "B"
+    },
+    {
+      "number": 501,
+      "shortName": "R20",
+      "longName": "IAP AKQ R20",
+      "briteGroup": "B"
+    },
+    {
+      "number": 511,
+      "shortName": "I05",
+      "longName": "IAP CPK I05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 512,
+      "shortName": "L05",
+      "longName": "IAP CPK L05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 513,
+      "shortName": "R05",
+      "longName": "IAP CPK R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 514,
+      "shortName": "R23",
+      "longName": "IAP CPK R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 531,
+      "shortName": "R09",
+      "longName": "IAP FKN R09",
+      "briteGroup": "B"
+    },
+    {
+      "number": 532,
+      "shortName": "R27",
+      "longName": "IAP FKN R27",
+      "briteGroup": "B"
+    },
+    {
+      "number": 561,
+      "shortName": "R05",
+      "longName": "IAP ONX R05",
+      "briteGroup": "B"
+    },
+    {
+      "number": 562,
+      "shortName": "R23",
+      "longName": "IAP ONX R23",
+      "briteGroup": "B"
+    },
+    {
+      "number": 563,
+      "shortName": "VDMA",
+      "longName": "IAP ONX VDMA",
+      "briteGroup": "B"
+    },
+    {
+      "number": 571,
+      "shortName": "I07",
+      "longName": "IAP PHF I07",
+      "briteGroup": "B"
+    },
+    {
+      "number": 572,
+      "shortName": "I25",
+      "longName": "IAP PHF I25",
+      "briteGroup": "B"
+    },
+    {
+      "number": 573,
+      "shortName": "L07",
+      "longName": "IAP PHF L07",
+      "briteGroup": "B"
+    },
+    {
+      "number": 574,
+      "shortName": "L20",
+      "longName": "IAP PHF L20",
+      "briteGroup": "B"
+    },
+    {
+      "number": 575,
+      "shortName": "L25",
+      "longName": "IAP PHF L25",
+      "briteGroup": "B"
+    },
+    {
+      "number": 576,
+      "shortName": "R02",
+      "longName": "IAP PHF R02",
+      "briteGroup": "B"
+    },
+    {
+      "number": 577,
+      "shortName": "R07",
+      "longName": "IAP PHF R07",
+      "briteGroup": "B"
+    },
+    {
+      "number": 578,
+      "shortName": "R20",
+      "longName": "IAP PHF R20",
+      "briteGroup": "B"
+    },
+    {
+      "number": 579,
+      "shortName": "R25",
+      "longName": "IAP PHF R25",
+      "briteGroup": "B"
+    },
+    {
+      "number": 581,
+      "shortName": "I10",
+      "longName": "IAP PVG I10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 582,
+      "shortName": "L10",
+      "longName": "IAP PVG L10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 583,
+      "shortName": "R10",
+      "longName": "IAP PVG R10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 584,
+      "shortName": "R28",
+      "longName": "IAP PVG R28",
+      "briteGroup": "B"
+    },
+    {
+      "number": 591,
+      "shortName": "L04",
+      "longName": "IAP SFQ L04",
+      "briteGroup": "B"
+    },
+    {
+      "number": 592,
+      "shortName": "R04",
+      "longName": "IAP SFQ R04",
+      "briteGroup": "B"
+    },
+    {
+      "number": 593,
+      "shortName": "R07",
+      "longName": "IAP SFQ R07",
+      "briteGroup": "B"
+    },
+    {
+      "number": 594,
+      "shortName": "R22",
+      "longName": "IAP SFQ R22",
+      "briteGroup": "B"
+    },
+    {
+      "number": 595,
+      "shortName": "R25",
+      "longName": "IAP SFQ R25",
       "briteGroup": "B"
     }
   ]
