@@ -734,27 +734,27 @@
       "briteGroup": "B"
     },
     {
+      "number": 130,
+      "shortName": "R-COLIN",
+      "longName": "SID KRIC COLIN",
+      "briteGroup": "B"
+    },
+    {
       "number": 131,
-      "shortName": "COLIN",
-      "longName": "RIC SID COLIN",
+      "shortName": "R-KALLI",
+      "longName": "SID KRIC KALLI",
       "briteGroup": "B"
     },
     {
       "number": 132,
-      "shortName": "KALLI",
-      "longName": "RIC SID KALLI",
+      "shortName": "R-LUCYL",
+      "longName": "SID KRIC LUCYL",
       "briteGroup": "B"
     },
     {
       "number": 133,
-      "shortName": "LUCYL",
-      "longName": "RIC SID LUCYL",
-      "briteGroup": "B"
-    },
-    {
-      "number": 134,
-      "shortName": "READE",
-      "longName": "RIC SID READE",
+      "shortName": "R-READE",
+      "longName": "SID KRIC READE",
       "briteGroup": "B"
     },
     {
@@ -902,15 +902,21 @@
       "briteGroup": "B"
     },
     {
-      "number": 241,
-      "shortName": "DUCXS",
-      "longName": "RIC STAR DUCXS",
+      "number": 230,
+      "shortName": "R-DUCXS",
+      "longName": "STAR KRIC DUCXS",
       "briteGroup": "B"
     },
     {
-      "number": 243,
-      "shortName": "POWTN",
-      "longName": "RIC STAR POWTN",
+      "number": 231,
+      "shortName": "R-POWTN",
+      "longName": "STAR KRIC POWTN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 232,
+      "shortName": "R-SPIDR",
+      "longName": "STAR KRIC SPIDR",
       "briteGroup": "B"
     },
     {
@@ -1271,6 +1277,90 @@
       "number": 369,
       "shortName": "I-R30-Y",
       "longName": "IAP KIAD R30-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 370,
+      "shortName": "R-H02-Y",
+      "longName": "IAP KRIC H02-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 371,
+      "shortName": "R-H16-Y",
+      "longName": "IAP KRIC H16-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 372,
+      "shortName": "R-H20-Y",
+      "longName": "IAP KRIC H20-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 373,
+      "shortName": "R-H34-Y",
+      "longName": "IAP KRIC H34-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 374,
+      "shortName": "R-I02",
+      "longName": "IAP KRIC I02",
+      "briteGroup": "B"
+    },
+    {
+      "number": 375,
+      "shortName": "R-I16",
+      "longName": "IAP KRIC I16",
+      "briteGroup": "B"
+    },
+    {
+      "number": 376,
+      "shortName": "R-I34",
+      "longName": "IAP KRIC I34",
+      "briteGroup": "B"
+    },
+    {
+      "number": 377,
+      "shortName": "R-L02",
+      "longName": "IAP KRIC L02",
+      "briteGroup": "B"
+    },
+    {
+      "number": 378,
+      "shortName": "R-L16",
+      "longName": "IAP KRIC L16",
+      "briteGroup": "B"
+    },
+    {
+      "number": 379,
+      "shortName": "R-L34",
+      "longName": "IAP KRIC L34",
+      "briteGroup": "B"
+    },
+    {
+      "number": 380,
+      "shortName": "R-R02-Z",
+      "longName": "IAP KRIC R02-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 381,
+      "shortName": "R-R16-Z",
+      "longName": "IAP KRIC R16-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 382,
+      "shortName": "R-R20-Z",
+      "longName": "IAP KRIC R20-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 383,
+      "shortName": "R-R34-Z",
+      "longName": "IAP KRIC R34-Z",
       "briteGroup": "B"
     },
     {
