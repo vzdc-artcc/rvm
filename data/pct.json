@@ -590,129 +590,147 @@
       "briteGroup": "A"
     },
     {
-      "number": 101,
-      "shortName": "AMEEE",
-      "longName": "DCA SID AMEEE",
-      "briteGroup": "B"
-    },
-    {
-      "number": 102,
-      "shortName": "CLTCH",
-      "longName": "DCA SID CLTCH",
-      "briteGroup": "B"
-    },
-    {
-      "number": 103,
-      "shortName": "DOCTR",
-      "longName": "DCA SID DOCTR",
-      "briteGroup": "B"
-    },
-    {
-      "number": 104,
-      "shortName": "HORTO",
-      "longName": "DCA SID HORTO",
-      "briteGroup": "B"
-    },
-    {
-      "number": 105,
-      "shortName": "JDUBB",
-      "longName": "DCA SID JDUBB",
-      "briteGroup": "B"
-    },
-    {
-      "number": 106,
-      "shortName": "REBLL",
-      "longName": "DCA SID REBLL",
-      "briteGroup": "B"
-    },
-    {
-      "number": 107,
-      "shortName": "SCRAM",
-      "longName": "DCA SID SCRAM",
-      "briteGroup": "B"
-    },
-    {
-      "number": 108,
-      "shortName": "SOOKI",
-      "longName": "DCA SID SOOKI",
-      "briteGroup": "B"
-    },
-    {
-      "number": 109,
-      "shortName": "WYNGS",
-      "longName": "DCA SID WYNGS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 111,
-      "shortName": "CONLE",
+      "number": 100,
+      "shortName": "B-CONLE",
       "longName": "BWI SID CONLE",
       "briteGroup": "B"
     },
     {
-      "number": 112,
-      "shortName": "DUKPN",
+      "number": 101,
+      "shortName": "B-DUKPN",
       "longName": "BWI SID DUKPN",
       "briteGroup": "B"
     },
     {
-      "number": 113,
-      "shortName": "FIXET",
+      "number": 102,
+      "shortName": "B-FIXET",
       "longName": "BWI SID FIXET",
       "briteGroup": "B"
     },
     {
-      "number": 114,
-      "shortName": "FOXHL",
+      "number": 103,
+      "shortName": "B-FOXHL",
       "longName": "BWI SID FOXHL",
       "briteGroup": "B"
     },
     {
-      "number": 115,
-      "shortName": "LINSE",
+      "number": 104,
+      "shortName": "B-LINSE",
       "longName": "BWI SID LINSE",
       "briteGroup": "B"
     },
     {
-      "number": 116,
-      "shortName": "TERPZ",
+      "number": 105,
+      "shortName": "B-TERPZ",
       "longName": "BWI SID TERPZ",
       "briteGroup": "B"
     },
     {
+      "number": 110,
+      "shortName": "D-AMEEE",
+      "longName": "DCA SID AMEEE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 111,
+      "shortName": "D-CLTCH",
+      "longName": "DCA SID CLTCH",
+      "briteGroup": "B"
+    },
+    {
+      "number": 112,
+      "shortName": "D-DOCTR",
+      "longName": "DCA SID DOCTR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 113,
+      "shortName": "D-HORTO",
+      "longName": "DCA SID HORTO",
+      "briteGroup": "B"
+    },
+    {
+      "number": 114,
+      "shortName": "D-JDUBB",
+      "longName": "DCA SID JDUBB",
+      "briteGroup": "B"
+    },
+    {
+      "number": 115,
+      "shortName": "D-REBLL",
+      "longName": "DCA SID REBLL",
+      "briteGroup": "B"
+    },
+    {
+      "number": 116,
+      "shortName": "D-SCRAM",
+      "longName": "DCA SID SCRAM",
+      "briteGroup": "B"
+    },
+    {
+      "number": 117,
+      "shortName": "D-SOOKI",
+      "longName": "DCA SID SOOKI",
+      "briteGroup": "B"
+    },
+    {
+      "number": 118,
+      "shortName": "D-WYNGS",
+      "longName": "DCA SID WYNGS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 120,
+      "shortName": "I-BUNZZ",
+      "longName": "SID KIAD BUNZZ",
+      "briteGroup": "B"
+    },
+    {
       "number": 121,
-      "shortName": "BUNZZ",
-      "longName": "IAD SID BUNZZ",
+      "shortName": "I-CLTCH",
+      "longName": "SID KIAD CLTCH",
+      "briteGroup": "B"
+    },
+    {
+      "number": 122,
+      "shortName": "I-JCOBY",
+      "longName": "SID KIAD JCOBY",
       "briteGroup": "B"
     },
     {
       "number": 123,
-      "shortName": "JCOBY",
-      "longName": "IAD SID JCOBY",
+      "shortName": "I-JDUBB",
+      "longName": "SID KIAD JDUBB",
+      "briteGroup": "B"
+    },
+    {
+      "number": 124,
+      "shortName": "I-JERES",
+      "longName": "SID KIAD JERES",
       "briteGroup": "B"
     },
     {
       "number": 125,
-      "shortName": "JERES",
-      "longName": "IAD SID JERES",
+      "shortName": "I-MCRAY",
+      "longName": "SID KIAD MCRAY",
       "briteGroup": "B"
     },
     {
       "number": 126,
-      "shortName": "MCRAY",
-      "longName": "IAD SID MCRAY",
+      "shortName": "I-RNLDI",
+      "longName": "SID KIAD RNLDI",
       "briteGroup": "B"
     },
     {
       "number": 127,
-      "shortName": "RNLDI",
-      "longName": "IAD SID RNLDI",
+      "shortName": "I-SCRAM",
+      "longName": "SID KIAD SCRAM",
       "briteGroup": "B"
     },
     {
-      "number": 129,
-      "shortName": "WOOLY",
-      "longName": "IAD SID WOOLY",
+      "number": 128,
+      "shortName": "I-WOOLY",
+      "longName": "SID KIAD WOOLY",
       "briteGroup": "B"
     },
     {
@@ -740,153 +758,147 @@
       "briteGroup": "B"
     },
     {
-      "number": 201,
-      "shortName": "CAPSS",
-      "longName": "DCA STAR CAPSS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 202,
-      "shortName": "CLIPR",
-      "longName": "DCA STAR CLIPR",
-      "briteGroup": "B"
-    },
-    {
-      "number": 203,
-      "shortName": "DEALE",
-      "longName": "DCA STAR DEALE",
-      "briteGroup": "B"
-    },
-    {
-      "number": 204,
-      "shortName": "FRDMM",
-      "longName": "DCA STAR FRDMM",
-      "briteGroup": "B"
-    },
-    {
-      "number": 205,
-      "shortName": "IRONS",
-      "longName": "DCA STAR IRONS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 206,
-      "shortName": "NUMMY",
-      "longName": "DCA STAR NUMMY",
-      "briteGroup": "B"
-    },
-    {
-      "number": 207,
-      "shortName": "SKILS",
-      "longName": "DCA STAR SKILS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 208,
-      "shortName": "TIKEE",
-      "longName": "DCA STAR TIKEE",
-      "briteGroup": "B"
-    },
-    {
-      "number": 209,
-      "shortName": "TRUPS",
-      "longName": "DCA STAR TRUPS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 211,
-      "shortName": "ANTHM",
+      "number": 200,
+      "shortName": "B-ANTHM",
       "longName": "BWI STAR ANTHM",
       "briteGroup": "B"
     },
     {
-      "number": 212,
-      "shortName": "MIIDY",
-      "longName": "BWI STAR MIIDY",
-      "briteGroup": "B"
-    },
-    {
-      "number": 213,
-      "shortName": "RAVNN",
-      "longName": "BWI STAR RAVNN",
-      "briteGroup": "B"
-    },
-    {
-      "number": 214,
-      "shortName": "TRISH",
-      "longName": "BWI STAR TRISH",
-      "briteGroup": "B"
-    },
-    {
-      "number": 215,
-      "shortName": "EMI",
+      "number": 201,
+      "shortName": "B-EMI",
       "longName": "BWI STAR EMI",
       "briteGroup": "B"
     },
     {
+      "number": 202,
+      "shortName": "B-MIIDY",
+      "longName": "BWI STAR MIIDY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 203,
+      "shortName": "B-RAVNN",
+      "longName": "BWI STAR RAVNN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 204,
+      "shortName": "B-TRISH",
+      "longName": "BWI STAR TRISH",
+      "briteGroup": "B"
+    },
+    {
+      "number": 211,
+      "shortName": "D-CAPSS",
+      "longName": "STAR KDCA CAPSS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 212,
+      "shortName": "D-CLIPR",
+      "longName": "STAR KDCA CLIPR",
+      "briteGroup": "B"
+    },
+    {
+      "number": 213,
+      "shortName": "D-DEALE",
+      "longName": "STAR KDCA DEALE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 214,
+      "shortName": "D-FRDMM",
+      "longName": "STAR KDCA FRDMM",
+      "briteGroup": "B"
+    },
+    {
+      "number": 215,
+      "shortName": "D-IRONS",
+      "longName": "STAR KDCA IRONS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 216,
+      "shortName": "D-NUMMY",
+      "longName": "STAR KDCA NUMMY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 217,
+      "shortName": "D-SKILS",
+      "longName": "STAR KDCA SKILS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 218,
+      "shortName": "D-TIKEE",
+      "longName": "STAR KDCA TIKEE",
+      "briteGroup": "B"
+    },
+    {
+      "number": 219,
+      "shortName": "D-TRUPS",
+      "longName": "STAR KDCA TRUPS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 220,
+      "shortName": "I-CAVLR",
+      "longName": "STAR KIAD CAVLR",
+      "briteGroup": "B"
+    },
+    {
       "number": 221,
-      "shortName": "CAVLR",
-      "longName": "IAD STAR CAVLR",
+      "shortName": "I-COATT",
+      "longName": "STAR KIAD COATT",
       "briteGroup": "B"
     },
     {
       "number": 222,
-      "shortName": "COATT",
-      "longName": "IAD STAR COATT",
+      "shortName": "I-DELRO",
+      "longName": "STAR KIAD DELRO",
       "briteGroup": "B"
     },
     {
       "number": 223,
-      "shortName": "DELRO",
-      "longName": "IAD STAR DELRO",
+      "shortName": "I-GIBBZ",
+      "longName": "STAR KIAD GIBBZ",
       "briteGroup": "B"
     },
     {
       "number": 224,
-      "shortName": "DOCCS",
-      "longName": "IAD STAR DOCCS",
+      "shortName": "I-HYPER",
+      "longName": "STAR KIAD HYPER",
       "briteGroup": "B"
     },
     {
       "number": 225,
-      "shortName": "GIBBZ",
-      "longName": "IAD STAR GIBBZ",
+      "shortName": "I-PRIVO",
+      "longName": "STAR KIAD PRIVO",
       "briteGroup": "B"
     },
     {
       "number": 226,
-      "shortName": "HYPER",
-      "longName": "IAD STAR HYPER",
+      "shortName": "I-PRTZL",
+      "longName": "STAR KIAD PRTZL",
       "briteGroup": "B"
     },
     {
       "number": 227,
-      "shortName": "PRIVO",
-      "longName": "IAD STAR PRIVO",
+      "shortName": "I-SEG",
+      "longName": "STAR KIAD SEG",
       "briteGroup": "B"
     },
     {
       "number": 228,
-      "shortName": "PRTZL",
-      "longName": "IAD STAR PRTZL",
+      "shortName": "I-WAYNZ",
+      "longName": "STAR KIAD WAYNZ",
       "briteGroup": "B"
     },
     {
       "number": 229,
-      "shortName": "SEG",
-      "longName": "IAD STAR SEG",
-      "briteGroup": "B"
-    },
-    {
-      "number": 230,
-      "shortName": "WAYNZ",
-      "longName": "IAD STAR WAYNZ",
-      "briteGroup": "B"
-    },
-    {
-      "number": 231,
-      "shortName": "WIGOL",
-      "longName": "IAD STAR WIGOL",
+      "shortName": "I-WIGOL",
+      "longName": "STAR KIAD WIGOL",
       "briteGroup": "B"
     },
     {
@@ -899,6 +911,366 @@
       "number": 243,
       "shortName": "POWTN",
       "longName": "RIC STAR POWTN",
+      "briteGroup": "B"
+    },
+    {
+      "number": 300,
+      "shortName": "B-H10-Z",
+      "longName": "BWI IAP H10-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 301,
+      "shortName": "B-H15RZ",
+      "longName": "BWI IAP H15RZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 302,
+      "shortName": "B-H28-Z",
+      "longName": "BWI IAP H28-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 303,
+      "shortName": "B-H33LX",
+      "longName": "BWI IAP H33LX",
+      "briteGroup": "B"
+    },
+    {
+      "number": 304,
+      "shortName": "B-H33LZ",
+      "longName": "BWI IAP H33LZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 305,
+      "shortName": "B-I10",
+      "longName": "BWI IAP I10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 306,
+      "shortName": "B-I15L",
+      "longName": "BWI IAP I15L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 307,
+      "shortName": "B-I15R",
+      "longName": "BWI IAP I15R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 308,
+      "shortName": "B-I28",
+      "longName": "BWI IAP I28",
+      "briteGroup": "B"
+    },
+    {
+      "number": 309,
+      "shortName": "B-I33L",
+      "longName": "BWI IAP I33L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 310,
+      "shortName": "B-I33R",
+      "longName": "BWI IAP I33R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 311,
+      "shortName": "B-L10",
+      "longName": "BWI IAP L10",
+      "briteGroup": "B"
+    },
+    {
+      "number": 312,
+      "shortName": "B-L15L",
+      "longName": "BWI IAP L15L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 313,
+      "shortName": "B-L15R",
+      "longName": "BWI IAP L15R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 314,
+      "shortName": "B-L28",
+      "longName": "BWI IAP L28",
+      "briteGroup": "B"
+    },
+    {
+      "number": 315,
+      "shortName": "B-L33L",
+      "longName": "BWI IAP L33L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 316,
+      "shortName": "B-L33R",
+      "longName": "BWI IAP L33R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 317,
+      "shortName": "B-R10-Y",
+      "longName": "BWI IAP R10-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 318,
+      "shortName": "B-R15L",
+      "longName": "BWI IAP R15L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 319,
+      "shortName": "B-R15RY",
+      "longName": "BWI IAP R15RY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 320,
+      "shortName": "B-R28-Y",
+      "longName": "BWI IAP R28-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 321,
+      "shortName": "B-R33LY",
+      "longName": "BWI IAP R33LY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 322,
+      "shortName": "B-R33R",
+      "longName": "BWI IAP R33R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 330,
+      "shortName": "D-H01",
+      "longName": "IAP KDCA H01",
+      "briteGroup": "B"
+    },
+    {
+      "number": 331,
+      "shortName": "D-H19-Z",
+      "longName": "IAP KDCA H19-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 332,
+      "shortName": "D-I01",
+      "longName": "IAP KDCA I01",
+      "briteGroup": "B"
+    },
+    {
+      "number": 333,
+      "shortName": "D-L01",
+      "longName": "IAP KDCA L01",
+      "briteGroup": "B"
+    },
+    {
+      "number": 334,
+      "shortName": "D-R15",
+      "longName": "IAP KDCA R15",
+      "briteGroup": "B"
+    },
+    {
+      "number": 335,
+      "shortName": "D-X19-Y",
+      "longName": "IAP KDCA X19-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 336,
+      "shortName": "D-X19-Z",
+      "longName": "IAP KDCA X19-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 340,
+      "shortName": "I-D12",
+      "longName": "IAP KIAD D12",
+      "briteGroup": "B"
+    },
+    {
+      "number": 341,
+      "shortName": "I-H01CZ",
+      "longName": "IAP KIAD H01CZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 342,
+      "shortName": "I-H01LZ",
+      "longName": "IAP KIAD H01LZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 343,
+      "shortName": "I-H01RZ",
+      "longName": "IAP KIAD H01RZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 344,
+      "shortName": "I-H19CZ",
+      "longName": "IAP KIAD H19CZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 345,
+      "shortName": "I-H19LZ",
+      "longName": "IAP KIAD H19LZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 346,
+      "shortName": "I-H19RZ",
+      "longName": "IAP KIAD H19RZ",
+      "briteGroup": "B"
+    },
+    {
+      "number": 347,
+      "shortName": "I-H30-Z",
+      "longName": "IAP KIAD H30-Z",
+      "briteGroup": "B"
+    },
+    {
+      "number": 348,
+      "shortName": "I-I01C",
+      "longName": "IAP KIAD I01C",
+      "briteGroup": "B"
+    },
+    {
+      "number": 349,
+      "shortName": "I-I01L",
+      "longName": "IAP KIAD I01L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 350,
+      "shortName": "I-I01R",
+      "longName": "IAP KIAD I01R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 351,
+      "shortName": "I-I12",
+      "longName": "IAP KIAD I12",
+      "briteGroup": "B"
+    },
+    {
+      "number": 352,
+      "shortName": "I-I19C",
+      "longName": "IAP KIAD I19C",
+      "briteGroup": "B"
+    },
+    {
+      "number": 353,
+      "shortName": "I-I19L",
+      "longName": "IAP KIAD I19L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 354,
+      "shortName": "I-I19R",
+      "longName": "IAP KIAD I19R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 355,
+      "shortName": "I-L01C",
+      "longName": "IAP KIAD L01C",
+      "briteGroup": "B"
+    },
+    {
+      "number": 356,
+      "shortName": "I-L01L",
+      "longName": "IAP KIAD L01L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 357,
+      "shortName": "I-L01R",
+      "longName": "IAP KIAD L01R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 358,
+      "shortName": "I-L12",
+      "longName": "IAP KIAD L12",
+      "briteGroup": "B"
+    },
+    {
+      "number": 359,
+      "shortName": "I-L19C",
+      "longName": "IAP KIAD L19C",
+      "briteGroup": "B"
+    },
+    {
+      "number": 360,
+      "shortName": "I-L19L",
+      "longName": "IAP KIAD L19L",
+      "briteGroup": "B"
+    },
+    {
+      "number": 361,
+      "shortName": "I-L19R",
+      "longName": "IAP KIAD L19R",
+      "briteGroup": "B"
+    },
+    {
+      "number": 362,
+      "shortName": "I-R01CY",
+      "longName": "IAP KIAD R01CY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 363,
+      "shortName": "I-R01LY",
+      "longName": "IAP KIAD R01LY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 364,
+      "shortName": "I-R01RY",
+      "longName": "IAP KIAD R01RY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 365,
+      "shortName": "I-R12",
+      "longName": "IAP KIAD R12",
+      "briteGroup": "B"
+    },
+    {
+      "number": 366,
+      "shortName": "I-R19CY",
+      "longName": "IAP KIAD R19CY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 367,
+      "shortName": "I-R19LY",
+      "longName": "IAP KIAD R19LY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 368,
+      "shortName": "I-R19RY",
+      "longName": "IAP KIAD R19RY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 369,
+      "shortName": "I-R30-Y",
+      "longName": "IAP KIAD R30-Y",
       "briteGroup": "B"
     },
     {
