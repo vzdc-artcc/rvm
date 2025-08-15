@@ -1364,6 +1364,36 @@
       "briteGroup": "B"
     },
     {
+      "number": 390,
+      "shortName": "C-I03",
+      "longName": "CHO IAP I03",
+      "briteGroup": "B"
+    },
+    {
+      "number": 391,
+      "shortName": "C-L03",
+      "longName": "CHO IAP L03",
+      "briteGroup": "B"
+    },
+    {
+      "number": 392,
+      "shortName": "C-R03",
+      "longName": "CHO IAP R03",
+      "briteGroup": "B"
+    },
+    {
+      "number": 393,
+      "shortName": "C-R21-Y",
+      "longName": "CHO IAP R21-Y",
+      "briteGroup": "B"
+    },
+    {
+      "number": 394,
+      "shortName": "C-R21-Z",
+      "longName": "CHO IAP R21-Z",
+      "briteGroup": "B"
+    },
+    {
       "number": 700,
       "shortName": "DCAFRN",
       "longName": "DCAFR North",
