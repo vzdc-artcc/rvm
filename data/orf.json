@@ -38,6 +38,18 @@
       "briteGroup": "B"
     },
     {
+      "number": 203,
+      "shortName": "KOHLS",
+      "longName": "STAR ORF KOHLS",
+      "briteGroup": "B"
+    },
+    {
+      "number": 204,
+      "shortName": "OUTLA",
+      "longName": "STAR ORF OUTLA",
+      "briteGroup": "B"
+    },
+    {
       "number": 301,
       "shortName": "I05",
       "longName": "IAP ORF I05",
