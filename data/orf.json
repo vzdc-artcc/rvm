@@ -27,24 +27,12 @@
     },
     {
       "number": 201,
-      "shortName": "DRONE",
-      "longName": "STAR ORF DRONE",
-      "briteGroup": "B"
-    },
-    {
-      "number": 202,
-      "shortName": "TERKS",
-      "longName": "STAR ORF TERKS",
-      "briteGroup": "B"
-    },
-    {
-      "number": 203,
       "shortName": "KOHLS",
       "longName": "STAR ORF KOHLS",
       "briteGroup": "B"
     },
     {
-      "number": 204,
+      "number": 202,
       "shortName": "OUTLA",
       "longName": "STAR ORF OUTLA",
       "briteGroup": "B"
