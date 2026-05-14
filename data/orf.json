@@ -26,6 +26,24 @@
       "briteGroup": "B"
     },
     {
+      "number": 101,
+      "longName": "SID ORF HOLND",
+      "shortName": "HOLND",
+      "briteGroup": "B"
+    },
+    {
+      "number": 102,
+      "longName": "SID ORF NUTIY",
+      "shortName": "NUTIY",
+      "briteGroup": "B"
+    },
+    {
+      "number": 103,
+      "longName": "SID ORF SWOPE",
+      "shortName": "SWOPE",
+      "briteGroup": "B"
+    },
+    {
       "number": 201,
       "shortName": "KOHLS",
       "longName": "STAR ORF KOHLS",
