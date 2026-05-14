@@ -1089,12 +1089,6 @@
     },
     {
       "number": 335,
-      "shortName": "D-X19-Y",
-      "longName": "IAP KDCA X19-Y",
-      "briteGroup": "B"
-    },
-    {
-      "number": 336,
       "shortName": "D-X19-Z",
       "longName": "IAP KDCA X19-Z",
       "briteGroup": "B"
